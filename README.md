@@ -11,3 +11,9 @@ Energy Monitor FeatherWing for Adafruit Feather M0 (ATSAMD21)
 * Only works with ATSAMD21 FeatherWing because this uses all 6 analog inputs
 * Relies on ATSAMD21 internal ADCs
 * Currently no circuitry included to power the Feather off the AC-AC supply
+* Other wings cannot be stacked on top of this, as the TRS jacks obstructs the headers
+
+## BOM
+
+* SMD 3.5mm jack - Suntech ST-PJ-312
+* Everything else are generic jelly bean parts - 0.1" headers, 0204 resistors, capacitors
