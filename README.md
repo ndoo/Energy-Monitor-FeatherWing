@@ -16,4 +16,5 @@ Energy Monitor FeatherWing for Adafruit Feather M0 (ATSAMD21)
 ## BOM
 
 * SMD 3.5mm jack - Suntech ST-PJ-312
+* 3-phase bridge rectifier - Diodes Inc. SDA006-7
 * Everything else are generic jelly bean parts - 0.1" headers, 0204 resistors, capacitors
