@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.5.0">
+<eagle version="7.6.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -6011,60 +6011,6 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 <hole x="48.26" y="2.54" drill="2.54"/>
 <pad name="P$1" x="2.54" y="20.32" drill="2.5" diameter="3.81"/>
 <pad name="P$2" x="2.54" y="2.54" drill="2.5" diameter="3.81"/>
-<pad name="28" x="16.51" y="21.59" drill="1" diameter="1.778"/>
-<pad name="27" x="19.05" y="21.59" drill="1" diameter="1.778"/>
-<pad name="26" x="21.59" y="21.59" drill="1" diameter="1.778"/>
-<pad name="25" x="24.13" y="21.59" drill="1" diameter="1.778"/>
-<pad name="24" x="26.67" y="21.59" drill="1" diameter="1.778"/>
-<pad name="23" x="29.21" y="21.59" drill="1" diameter="1.778"/>
-<pad name="22" x="31.75" y="21.59" drill="1" diameter="1.778"/>
-<pad name="21" x="34.29" y="21.59" drill="1" diameter="1.778"/>
-<pad name="20" x="36.83" y="21.59" drill="1" diameter="1.778"/>
-<pad name="19" x="39.37" y="21.59" drill="1" diameter="1.778"/>
-<pad name="18" x="41.91" y="21.59" drill="1" diameter="1.778"/>
-<pad name="17" x="44.45" y="21.59" drill="1" diameter="1.778"/>
-<pad name="5" x="16.51" y="1.27" drill="1" diameter="1.778"/>
-<pad name="6" x="19.05" y="1.27" drill="1" diameter="1.778"/>
-<pad name="7" x="21.59" y="1.27" drill="1" diameter="1.778"/>
-<pad name="8" x="24.13" y="1.27" drill="1" diameter="1.778"/>
-<pad name="9" x="26.67" y="1.27" drill="1" diameter="1.778"/>
-<pad name="10" x="29.21" y="1.27" drill="1" diameter="1.778"/>
-<pad name="11" x="31.75" y="1.27" drill="1" diameter="1.778"/>
-<pad name="12" x="34.29" y="1.27" drill="1" diameter="1.778"/>
-<pad name="13" x="36.83" y="1.27" drill="1" diameter="1.778"/>
-<pad name="14" x="39.37" y="1.27" drill="1" diameter="1.778"/>
-<pad name="15" x="41.91" y="1.27" drill="1" diameter="1.778"/>
-<pad name="16" x="44.45" y="1.27" drill="1" diameter="1.778"/>
-<pad name="4" x="13.97" y="1.27" drill="1" diameter="1.778"/>
-<pad name="3" x="11.43" y="1.27" drill="1" diameter="1.778"/>
-<pad name="2" x="8.89" y="1.27" drill="1" diameter="1.778"/>
-<pad name="1" x="6.35" y="1.27" drill="1" diameter="1.778"/>
-</package>
-<package name="FEATHERWING_DIM">
-<wire x1="2.54" y1="0" x2="48.26" y2="0" width="0" layer="21"/>
-<wire x1="48.26" y1="0" x2="50.8" y2="2.54" width="0" layer="21" curve="90"/>
-<wire x1="50.8" y1="2.54" x2="50.8" y2="20.32" width="0" layer="21"/>
-<wire x1="50.8" y1="20.32" x2="48.26" y2="22.86" width="0" layer="21" curve="90"/>
-<wire x1="48.26" y1="22.86" x2="2.54" y2="22.86" width="0" layer="21"/>
-<wire x1="2.54" y1="22.86" x2="0" y2="20.32" width="0" layer="21" curve="90"/>
-<wire x1="0" y1="20.32" x2="0" y2="13.716" width="0" layer="21"/>
-<wire x1="0" y1="13.716" x2="0.508" y2="13.208" width="0" layer="21"/>
-<wire x1="0.508" y1="13.208" x2="0.508" y2="9.652" width="0" layer="21"/>
-<wire x1="0.508" y1="9.652" x2="0" y2="9.144" width="0" layer="21"/>
-<wire x1="0" y1="9.144" x2="0" y2="2.54" width="0" layer="21"/>
-<wire x1="0" y1="2.54" x2="2.54" y2="0" width="0" layer="21" curve="90"/>
-<hole x="48.26" y="20.32" drill="2.54"/>
-<hole x="48.26" y="2.54" drill="2.54"/>
-<pad name="P$1" x="2.54" y="20.32" drill="2.5" diameter="3.81"/>
-<pad name="P$2" x="2.54" y="2.54" drill="2.5" diameter="3.81"/>
-<pad name="28" x="16.51" y="21.59" drill="1" diameter="1.778"/>
-<pad name="27" x="19.05" y="21.59" drill="1" diameter="1.778"/>
-<pad name="26" x="21.59" y="21.59" drill="1" diameter="1.778"/>
-<pad name="25" x="24.13" y="21.59" drill="1" diameter="1.778"/>
-<pad name="24" x="26.67" y="21.59" drill="1" diameter="1.778"/>
-<pad name="23" x="29.21" y="21.59" drill="1" diameter="1.778"/>
-<pad name="22" x="31.75" y="21.59" drill="1" diameter="1.778"/>
-<pad name="21" x="34.29" y="21.59" drill="1" diameter="1.778"/>
 <pad name="20" x="36.83" y="21.59" drill="1" diameter="1.778"/>
 <pad name="19" x="39.37" y="21.59" drill="1" diameter="1.778"/>
 <pad name="18" x="41.91" y="21.59" drill="1" diameter="1.778"/>
@@ -6234,6 +6180,44 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 <pad name="6" x="8.75" y="0" drill="1" diameter="2.1844"/>
 <text x="7.87" y="-5.81" size="1.27" layer="25" rot="R180">&gt;NAME</text>
 </package>
+<package name="FEATHERWING_DIM">
+<wire x1="2.54" y1="0" x2="48.26" y2="0" width="0" layer="21"/>
+<wire x1="48.26" y1="0" x2="50.8" y2="2.54" width="0" layer="21" curve="90"/>
+<wire x1="50.8" y1="2.54" x2="50.8" y2="20.32" width="0" layer="21"/>
+<wire x1="50.8" y1="20.32" x2="48.26" y2="22.86" width="0" layer="21" curve="90"/>
+<wire x1="48.26" y1="22.86" x2="2.54" y2="22.86" width="0" layer="21"/>
+<wire x1="2.54" y1="22.86" x2="0" y2="20.32" width="0" layer="21" curve="90"/>
+<wire x1="0" y1="20.32" x2="0" y2="13.716" width="0" layer="21"/>
+<wire x1="0" y1="13.716" x2="0.508" y2="13.208" width="0" layer="21"/>
+<wire x1="0.508" y1="13.208" x2="0.508" y2="9.652" width="0" layer="21"/>
+<wire x1="0.508" y1="9.652" x2="0" y2="9.144" width="0" layer="21"/>
+<wire x1="0" y1="9.144" x2="0" y2="2.54" width="0" layer="21"/>
+<wire x1="0" y1="2.54" x2="2.54" y2="0" width="0" layer="21" curve="90"/>
+<hole x="48.26" y="20.32" drill="2.54"/>
+<hole x="48.26" y="2.54" drill="2.54"/>
+<pad name="P$1" x="2.54" y="20.32" drill="2.5" diameter="3.81"/>
+<pad name="P$2" x="2.54" y="2.54" drill="2.5" diameter="3.81"/>
+<pad name="20" x="36.83" y="21.59" drill="1" diameter="1.778"/>
+<pad name="19" x="39.37" y="21.59" drill="1" diameter="1.778"/>
+<pad name="18" x="41.91" y="21.59" drill="1" diameter="1.778"/>
+<pad name="17" x="44.45" y="21.59" drill="1" diameter="1.778"/>
+<pad name="5" x="16.51" y="1.27" drill="1" diameter="1.778"/>
+<pad name="6" x="19.05" y="1.27" drill="1" diameter="1.778"/>
+<pad name="7" x="21.59" y="1.27" drill="1" diameter="1.778"/>
+<pad name="8" x="24.13" y="1.27" drill="1" diameter="1.778"/>
+<pad name="9" x="26.67" y="1.27" drill="1" diameter="1.778"/>
+<pad name="10" x="29.21" y="1.27" drill="1" diameter="1.778"/>
+<pad name="11" x="31.75" y="1.27" drill="1" diameter="1.778"/>
+<pad name="12" x="34.29" y="1.27" drill="1" diameter="1.778"/>
+<pad name="13" x="36.83" y="1.27" drill="1" diameter="1.778"/>
+<pad name="14" x="39.37" y="1.27" drill="1" diameter="1.778"/>
+<pad name="15" x="41.91" y="1.27" drill="1" diameter="1.778"/>
+<pad name="16" x="44.45" y="1.27" drill="1" diameter="1.778"/>
+<pad name="4" x="13.97" y="1.27" drill="1" diameter="1.778"/>
+<pad name="3" x="11.43" y="1.27" drill="1" diameter="1.778"/>
+<pad name="2" x="8.89" y="1.27" drill="1" diameter="1.778"/>
+<pad name="1" x="6.35" y="1.27" drill="1" diameter="1.778"/>
+</package>
 </packages>
 <symbols>
 <symbol name="MICROSHIELD">
@@ -6264,15 +6248,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 <circle x="45.72" y="30.48" radius="1.27" width="0.254" layer="94"/>
 <circle x="45.72" y="2.54" radius="1.27" width="0.254" layer="94"/>
 <pin name="GPIO5" x="38.1" y="38.1" length="middle" rot="R270"/>
-<pin name="GPIO9" x="33.02" y="38.1" length="middle" rot="R270"/>
 <pin name="GPIO6" x="35.56" y="38.1" length="middle" rot="R270"/>
-<pin name="GPIO10" x="30.48" y="38.1" length="middle" rot="R270"/>
-<pin name="GPIO11" x="27.94" y="38.1" length="middle" rot="R270"/>
-<pin name="GPIO12" x="25.4" y="38.1" length="middle" rot="R270"/>
-<pin name="GPIO13" x="22.86" y="38.1" length="middle" rot="R270"/>
-<pin name="EN" x="17.78" y="38.1" length="middle" direction="pas" rot="R270"/>
-<pin name="USB" x="20.32" y="38.1" length="middle" direction="sup" rot="R270"/>
-<pin name="VBAT" x="15.24" y="38.1" length="middle" direction="sup" rot="R270"/>
 <wire x1="12.7" y1="33.02" x2="5.08" y2="33.02" width="0.254" layer="94"/>
 <wire x1="5.08" y1="33.02" x2="0" y2="33.02" width="0.254" layer="94"/>
 <wire x1="5.08" y1="33.02" x2="5.08" y2="25.4" width="0.254" layer="94"/>
@@ -6314,15 +6290,9 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 <connect gate="G$1" pin="!RESET" pad="1"/>
 <connect gate="G$1" pin="3V" pad="2"/>
 <connect gate="G$1" pin="AREF" pad="3"/>
-<connect gate="G$1" pin="EN" pad="27"/>
 <connect gate="G$1" pin="GND" pad="4"/>
-<connect gate="G$1" pin="GPIO10" pad="22"/>
-<connect gate="G$1" pin="GPIO11" pad="23"/>
-<connect gate="G$1" pin="GPIO12" pad="24"/>
-<connect gate="G$1" pin="GPIO13" pad="25"/>
 <connect gate="G$1" pin="GPIO5" pad="19"/>
 <connect gate="G$1" pin="GPIO6" pad="20"/>
-<connect gate="G$1" pin="GPIO9" pad="21"/>
 <connect gate="G$1" pin="GPIOA0" pad="5"/>
 <connect gate="G$1" pin="GPIOA1" pad="6"/>
 <connect gate="G$1" pin="GPIOA2" pad="7"/>
@@ -6337,8 +6307,6 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 <connect gate="G$1" pin="GPIOSDA" pad="17"/>
 <connect gate="G$1" pin="GPIOTX" pad="15"/>
 <connect gate="G$1" pin="NC" pad="16"/>
-<connect gate="G$1" pin="USB" pad="26"/>
-<connect gate="G$1" pin="VBAT" pad="28"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -6349,15 +6317,9 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 <connect gate="G$1" pin="!RESET" pad="1"/>
 <connect gate="G$1" pin="3V" pad="2"/>
 <connect gate="G$1" pin="AREF" pad="3"/>
-<connect gate="G$1" pin="EN" pad="27"/>
 <connect gate="G$1" pin="GND" pad="4"/>
-<connect gate="G$1" pin="GPIO10" pad="22"/>
-<connect gate="G$1" pin="GPIO11" pad="23"/>
-<connect gate="G$1" pin="GPIO12" pad="24"/>
-<connect gate="G$1" pin="GPIO13" pad="25"/>
 <connect gate="G$1" pin="GPIO5" pad="19"/>
 <connect gate="G$1" pin="GPIO6" pad="20"/>
-<connect gate="G$1" pin="GPIO9" pad="21"/>
 <connect gate="G$1" pin="GPIOA0" pad="5"/>
 <connect gate="G$1" pin="GPIOA1" pad="6"/>
 <connect gate="G$1" pin="GPIOA2" pad="7"/>
@@ -6372,8 +6334,6 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 <connect gate="G$1" pin="GPIOSDA" pad="17"/>
 <connect gate="G$1" pin="GPIOTX" pad="15"/>
 <connect gate="G$1" pin="NC" pad="16"/>
-<connect gate="G$1" pin="USB" pad="26"/>
-<connect gate="G$1" pin="VBAT" pad="28"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -6551,24 +6511,24 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 <instance part="GND4" gate="1" x="104.14" y="38.1" rot="R180"/>
 <instance part="P+4" gate="VCC" x="104.14" y="2.54" rot="R180"/>
 <instance part="C3" gate="G$1" x="109.22" y="30.48"/>
-<instance part="JP1" gate="A" x="193.04" y="-7.62"/>
+<instance part="JP1" gate="A" x="195.58" y="-7.62"/>
 <instance part="R10" gate="G$1" x="144.78" y="0"/>
 <instance part="R11" gate="G$1" x="165.1" y="-2.54"/>
 <instance part="R14" gate="G$1" x="152.4" y="-5.08"/>
 <instance part="R15" gate="G$1" x="170.18" y="-7.62"/>
 <instance part="R18" gate="G$1" x="160.02" y="-10.16"/>
 <instance part="R19" gate="G$1" x="175.26" y="-12.7"/>
-<instance part="C4" gate="G$1" x="195.58" y="-40.64" rot="R90"/>
-<instance part="C5" gate="G$1" x="195.58" y="-30.48" rot="R90"/>
-<instance part="C6" gate="G$1" x="195.58" y="-20.32" rot="R90"/>
-<instance part="GND5" gate="1" x="203.2" y="-22.86"/>
-<instance part="R20" gate="G$1" x="190.5" y="-25.4"/>
-<instance part="R21" gate="G$1" x="172.72" y="-25.4"/>
-<instance part="P+5" gate="VCC" x="165.1" y="-50.8" rot="R180"/>
-<instance part="R12" gate="G$1" x="190.5" y="-45.72"/>
-<instance part="R17" gate="G$1" x="172.72" y="-35.56"/>
-<instance part="R16" gate="G$1" x="190.5" y="-35.56"/>
-<instance part="R13" gate="G$1" x="172.72" y="-45.72"/>
+<instance part="C4" gate="G$1" x="198.12" y="-43.18" rot="R90"/>
+<instance part="C5" gate="G$1" x="198.12" y="-33.02" rot="R90"/>
+<instance part="C6" gate="G$1" x="198.12" y="-22.86" rot="R90"/>
+<instance part="GND5" gate="1" x="205.74" y="-25.4"/>
+<instance part="R20" gate="G$1" x="193.04" y="-27.94"/>
+<instance part="R21" gate="G$1" x="175.26" y="-27.94"/>
+<instance part="P+5" gate="VCC" x="167.64" y="-53.34" rot="R180"/>
+<instance part="R12" gate="G$1" x="193.04" y="-48.26"/>
+<instance part="R17" gate="G$1" x="175.26" y="-38.1"/>
+<instance part="R16" gate="G$1" x="193.04" y="-38.1"/>
+<instance part="R13" gate="G$1" x="175.26" y="-48.26"/>
 </instances>
 <busses>
 </busses>
@@ -6645,25 +6605,25 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 <segment>
 <pinref part="C6" gate="G$1" pin="2"/>
 <pinref part="GND5" gate="1" pin="GND"/>
-<wire x1="200.66" y1="-25.4" x2="200.66" y2="-20.32" width="0.1524" layer="91"/>
+<wire x1="203.2" y1="-27.94" x2="203.2" y2="-22.86" width="0.1524" layer="91"/>
 <pinref part="R20" gate="G$1" pin="2"/>
-<wire x1="200.66" y1="-20.32" x2="203.2" y2="-20.32" width="0.1524" layer="91"/>
-<wire x1="200.66" y1="-25.4" x2="195.58" y2="-25.4" width="0.1524" layer="91"/>
-<junction x="200.66" y="-20.32"/>
+<wire x1="203.2" y1="-22.86" x2="205.74" y2="-22.86" width="0.1524" layer="91"/>
+<wire x1="203.2" y1="-27.94" x2="198.12" y2="-27.94" width="0.1524" layer="91"/>
+<junction x="203.2" y="-22.86"/>
 <pinref part="C5" gate="G$1" pin="2"/>
-<wire x1="200.66" y1="-25.4" x2="200.66" y2="-30.48" width="0.1524" layer="91"/>
-<junction x="200.66" y="-25.4"/>
+<wire x1="203.2" y1="-27.94" x2="203.2" y2="-33.02" width="0.1524" layer="91"/>
+<junction x="203.2" y="-27.94"/>
 <pinref part="C4" gate="G$1" pin="2"/>
-<wire x1="200.66" y1="-30.48" x2="200.66" y2="-35.56" width="0.1524" layer="91"/>
-<junction x="200.66" y="-30.48"/>
-<wire x1="200.66" y1="-35.56" x2="200.66" y2="-40.64" width="0.1524" layer="91"/>
-<wire x1="200.66" y1="-40.64" x2="200.66" y2="-45.72" width="0.1524" layer="91"/>
-<junction x="200.66" y="-40.64"/>
+<wire x1="203.2" y1="-33.02" x2="203.2" y2="-38.1" width="0.1524" layer="91"/>
+<junction x="203.2" y="-33.02"/>
+<wire x1="203.2" y1="-38.1" x2="203.2" y2="-43.18" width="0.1524" layer="91"/>
+<wire x1="203.2" y1="-43.18" x2="203.2" y2="-48.26" width="0.1524" layer="91"/>
+<junction x="203.2" y="-43.18"/>
 <pinref part="R12" gate="G$1" pin="2"/>
-<wire x1="200.66" y1="-45.72" x2="195.58" y2="-45.72" width="0.1524" layer="91"/>
+<wire x1="203.2" y1="-48.26" x2="198.12" y2="-48.26" width="0.1524" layer="91"/>
 <pinref part="R16" gate="G$1" pin="2"/>
-<wire x1="195.58" y1="-35.56" x2="200.66" y2="-35.56" width="0.1524" layer="91"/>
-<junction x="200.66" y="-35.56"/>
+<wire x1="198.12" y1="-38.1" x2="203.2" y2="-38.1" width="0.1524" layer="91"/>
+<junction x="203.2" y="-38.1"/>
 </segment>
 </net>
 <net name="VCC" class="0">
@@ -6690,19 +6650,19 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </segment>
 <segment>
 <pinref part="R21" gate="G$1" pin="1"/>
-<wire x1="167.64" y1="-25.4" x2="165.1" y2="-25.4" width="0.1524" layer="91"/>
-<wire x1="165.1" y1="-25.4" x2="167.64" y2="-25.4" width="0.1524" layer="91"/>
+<wire x1="170.18" y1="-27.94" x2="167.64" y2="-27.94" width="0.1524" layer="91"/>
+<wire x1="167.64" y1="-27.94" x2="170.18" y2="-27.94" width="0.1524" layer="91"/>
 <pinref part="P+5" gate="VCC" pin="VCC"/>
-<wire x1="165.1" y1="-25.4" x2="165.1" y2="-35.56" width="0.1524" layer="91"/>
-<junction x="165.1" y="-25.4"/>
+<wire x1="167.64" y1="-27.94" x2="167.64" y2="-38.1" width="0.1524" layer="91"/>
+<junction x="167.64" y="-27.94"/>
 <pinref part="R17" gate="G$1" pin="1"/>
-<wire x1="165.1" y1="-35.56" x2="165.1" y2="-45.72" width="0.1524" layer="91"/>
-<wire x1="165.1" y1="-45.72" x2="165.1" y2="-48.26" width="0.1524" layer="91"/>
-<wire x1="167.64" y1="-35.56" x2="165.1" y2="-35.56" width="0.1524" layer="91"/>
-<junction x="165.1" y="-35.56"/>
+<wire x1="167.64" y1="-38.1" x2="167.64" y2="-48.26" width="0.1524" layer="91"/>
+<wire x1="167.64" y1="-48.26" x2="167.64" y2="-50.8" width="0.1524" layer="91"/>
+<wire x1="170.18" y1="-38.1" x2="167.64" y2="-38.1" width="0.1524" layer="91"/>
+<junction x="167.64" y="-38.1"/>
 <pinref part="R13" gate="G$1" pin="1"/>
-<wire x1="167.64" y1="-45.72" x2="165.1" y2="-45.72" width="0.1524" layer="91"/>
-<junction x="165.1" y="-45.72"/>
+<wire x1="170.18" y1="-48.26" x2="167.64" y2="-48.26" width="0.1524" layer="91"/>
+<junction x="167.64" y="-48.26"/>
 </segment>
 </net>
 <net name="CT2_REF" class="0">
@@ -6798,7 +6758,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 <net name="N$4" class="0">
 <segment>
 <pinref part="JP1" gate="A" pin="1"/>
-<wire x1="190.5" y1="0" x2="180.34" y2="0" width="0.1524" layer="91"/>
+<wire x1="193.04" y1="0" x2="180.34" y2="0" width="0.1524" layer="91"/>
 <pinref part="R10" gate="G$1" pin="2"/>
 <wire x1="180.34" y1="0" x2="149.86" y2="0" width="0.1524" layer="91"/>
 </segment>
@@ -6819,7 +6779,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 <segment>
 <pinref part="JP1" gate="A" pin="3"/>
 <pinref part="R14" gate="G$1" pin="2"/>
-<wire x1="190.5" y1="-5.08" x2="157.48" y2="-5.08" width="0.1524" layer="91"/>
+<wire x1="193.04" y1="-5.08" x2="157.48" y2="-5.08" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$8" class="0">
@@ -6835,24 +6795,22 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 <wire x1="137.16" y1="35.56" x2="157.48" y2="35.56" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$9" class="0">
+<net name="AC_GND" class="0">
 <segment>
-<pinref part="C4" gate="G$1" pin="1"/>
-<wire x1="193.04" y1="-40.64" x2="180.34" y2="-40.64" width="0.1524" layer="91"/>
-<wire x1="180.34" y1="-40.64" x2="180.34" y2="-20.32" width="0.1524" layer="91"/>
-<pinref part="R11" gate="G$1" pin="2"/>
-<pinref part="JP1" gate="A" pin="2"/>
-<wire x1="170.18" y1="-2.54" x2="180.34" y2="-2.54" width="0.1524" layer="91"/>
-<wire x1="180.34" y1="-2.54" x2="190.5" y2="-2.54" width="0.1524" layer="91"/>
-<wire x1="180.34" y1="-20.32" x2="180.34" y2="-2.54" width="0.1524" layer="91"/>
-<junction x="180.34" y="-2.54"/>
-<pinref part="R13" gate="G$1" pin="2"/>
-<pinref part="R12" gate="G$1" pin="1"/>
-<wire x1="185.42" y1="-45.72" x2="180.34" y2="-45.72" width="0.1524" layer="91"/>
-<wire x1="180.34" y1="-45.72" x2="177.8" y2="-45.72" width="0.1524" layer="91"/>
-<wire x1="180.34" y1="-40.64" x2="180.34" y2="-45.72" width="0.1524" layer="91"/>
-<junction x="180.34" y="-40.64"/>
-<junction x="180.34" y="-45.72"/>
+<pinref part="JP1" gate="A" pin="6"/>
+<pinref part="R19" gate="G$1" pin="2"/>
+<wire x1="187.96" y1="-12.7" x2="193.04" y2="-12.7" width="0.1524" layer="91"/>
+<wire x1="180.34" y1="-12.7" x2="187.96" y2="-12.7" width="0.1524" layer="91"/>
+<wire x1="187.96" y1="-12.7" x2="187.96" y2="-22.86" width="0.1524" layer="91"/>
+<junction x="187.96" y="-12.7"/>
+<pinref part="C6" gate="G$1" pin="1"/>
+<wire x1="187.96" y1="-22.86" x2="195.58" y2="-22.86" width="0.1524" layer="91"/>
+<pinref part="R20" gate="G$1" pin="1"/>
+<wire x1="187.96" y1="-22.86" x2="187.96" y2="-27.94" width="0.1524" layer="91"/>
+<junction x="187.96" y="-22.86"/>
+<pinref part="R21" gate="G$1" pin="2"/>
+<wire x1="180.34" y1="-27.94" x2="187.96" y2="-27.94" width="0.1524" layer="91"/>
+<junction x="187.96" y="-27.94"/>
 </segment>
 </net>
 <net name="N$10" class="0">
@@ -6860,7 +6818,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 <pinref part="R18" gate="G$1" pin="2"/>
 <pinref part="JP1" gate="A" pin="5"/>
 <wire x1="165.1" y1="-10.16" x2="182.88" y2="-10.16" width="0.1524" layer="91"/>
-<wire x1="182.88" y1="-10.16" x2="190.5" y2="-10.16" width="0.1524" layer="91"/>
+<wire x1="182.88" y1="-10.16" x2="193.04" y2="-10.16" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$11" class="0">
@@ -6876,42 +6834,45 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 <wire x1="134.62" y1="33.02" x2="157.48" y2="33.02" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$13" class="0">
-<segment>
-<pinref part="C5" gate="G$1" pin="1"/>
-<wire x1="193.04" y1="-30.48" x2="182.88" y2="-30.48" width="0.1524" layer="91"/>
-<pinref part="JP1" gate="A" pin="4"/>
-<wire x1="180.34" y1="-7.62" x2="182.88" y2="-7.62" width="0.1524" layer="91"/>
-<pinref part="R15" gate="G$1" pin="2"/>
-<wire x1="182.88" y1="-7.62" x2="190.5" y2="-7.62" width="0.1524" layer="91"/>
-<wire x1="175.26" y1="-7.62" x2="180.34" y2="-7.62" width="0.1524" layer="91"/>
-<wire x1="182.88" y1="-30.48" x2="182.88" y2="-7.62" width="0.1524" layer="91"/>
-<junction x="182.88" y="-7.62"/>
-<wire x1="182.88" y1="-30.48" x2="182.88" y2="-35.56" width="0.1524" layer="91"/>
-<junction x="182.88" y="-30.48"/>
-<pinref part="R16" gate="G$1" pin="1"/>
-<wire x1="182.88" y1="-35.56" x2="185.42" y2="-35.56" width="0.1524" layer="91"/>
-<pinref part="R17" gate="G$1" pin="2"/>
-<wire x1="182.88" y1="-35.56" x2="177.8" y2="-35.56" width="0.1524" layer="91"/>
-<junction x="182.88" y="-35.56"/>
-</segment>
-</net>
 <net name="N$6" class="0">
 <segment>
-<pinref part="JP1" gate="A" pin="6"/>
-<wire x1="185.42" y1="-12.7" x2="190.5" y2="-12.7" width="0.1524" layer="91"/>
-<pinref part="R19" gate="G$1" pin="2"/>
-<wire x1="180.34" y1="-12.7" x2="185.42" y2="-12.7" width="0.1524" layer="91"/>
-<wire x1="185.42" y1="-12.7" x2="185.42" y2="-20.32" width="0.1524" layer="91"/>
-<junction x="185.42" y="-12.7"/>
-<pinref part="C6" gate="G$1" pin="1"/>
-<wire x1="185.42" y1="-20.32" x2="193.04" y2="-20.32" width="0.1524" layer="91"/>
-<pinref part="R20" gate="G$1" pin="1"/>
-<wire x1="185.42" y1="-20.32" x2="185.42" y2="-25.4" width="0.1524" layer="91"/>
-<junction x="185.42" y="-20.32"/>
-<pinref part="R21" gate="G$1" pin="2"/>
-<wire x1="177.8" y1="-25.4" x2="185.42" y2="-25.4" width="0.1524" layer="91"/>
-<junction x="185.42" y="-25.4"/>
+<pinref part="R17" gate="G$1" pin="2"/>
+<pinref part="R16" gate="G$1" pin="1"/>
+<pinref part="JP1" gate="A" pin="4"/>
+<wire x1="187.96" y1="-7.62" x2="193.04" y2="-7.62" width="0.1524" layer="91"/>
+<wire x1="185.42" y1="-7.62" x2="187.96" y2="-7.62" width="0.1524" layer="91"/>
+<pinref part="R15" gate="G$1" pin="2"/>
+<wire x1="175.26" y1="-7.62" x2="185.42" y2="-7.62" width="0.1524" layer="91"/>
+<junction x="185.42" y="-7.62"/>
+<pinref part="C5" gate="G$1" pin="1"/>
+<wire x1="195.58" y1="-33.02" x2="185.42" y2="-33.02" width="0.1524" layer="91"/>
+<wire x1="185.42" y1="-33.02" x2="185.42" y2="-7.62" width="0.1524" layer="91"/>
+<junction x="185.42" y="-33.02"/>
+<wire x1="185.42" y1="-33.02" x2="185.42" y2="-38.1" width="0.1524" layer="91"/>
+<wire x1="185.42" y1="-38.1" x2="187.96" y2="-38.1" width="0.1524" layer="91"/>
+<junction x="185.42" y="-38.1"/>
+<wire x1="185.42" y1="-38.1" x2="180.34" y2="-38.1" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$9" class="0">
+<segment>
+<pinref part="R13" gate="G$1" pin="2"/>
+<pinref part="R12" gate="G$1" pin="1"/>
+<wire x1="187.96" y1="-48.26" x2="182.88" y2="-48.26" width="0.1524" layer="91"/>
+<pinref part="C4" gate="G$1" pin="1"/>
+<wire x1="195.58" y1="-43.18" x2="182.88" y2="-43.18" width="0.1524" layer="91"/>
+<wire x1="182.88" y1="-43.18" x2="182.88" y2="-48.26" width="0.1524" layer="91"/>
+<junction x="182.88" y="-48.26"/>
+<wire x1="182.88" y1="-48.26" x2="180.34" y2="-48.26" width="0.1524" layer="91"/>
+<pinref part="JP1" gate="A" pin="2"/>
+<wire x1="187.96" y1="-2.54" x2="193.04" y2="-2.54" width="0.1524" layer="91"/>
+<wire x1="180.34" y1="-2.54" x2="182.88" y2="-2.54" width="0.1524" layer="91"/>
+<pinref part="R11" gate="G$1" pin="2"/>
+<wire x1="182.88" y1="-2.54" x2="187.96" y2="-2.54" width="0.1524" layer="91"/>
+<wire x1="170.18" y1="-2.54" x2="180.34" y2="-2.54" width="0.1524" layer="91"/>
+<wire x1="182.88" y1="-43.18" x2="182.88" y2="-2.54" width="0.1524" layer="91"/>
+<junction x="182.88" y="-43.18"/>
+<junction x="182.88" y="-2.54"/>
 </segment>
 </net>
 </nets>
