@@ -19,6 +19,8 @@ An Arduino sketch that publishes MQTT feeds can be found at [ndoo/Energy-Monitor
 * No built-in rectifier/regulator to power itself from 9VAC terminals
 * Must be top FeatherWing in a stack as the TRS jacks obstruct some Feather pins
 
+Note: While I have tried to use ≥10mil design rules, I may have left some 6mil tolerance parts in because Seeed Studios' Fusion PCB service has 6mil tolerances. If you use a different PCB fab, you should run an Eagle DRU check against your chosen fab's tolerances!
+
 ## BOM
 
 ### PCB BOM
