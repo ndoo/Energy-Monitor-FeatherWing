@@ -30,7 +30,7 @@ An Arduino sketch that publishes MQTT feeds can be found at [ndoo/Energy-Monitor
 ### Transformers
 
 * Current transformer:  YHDC SCT-013-000 100A split core current transformer ([OpenEnergyMonitor](http://shop.openenergymonitor.com/100a-max-clip-on-current-sensor-ct/) [Seeed Studio](https://www.seeedstudio.com/Noninvasive-AC-Current-Sensor-100A-max-p-547.html) [DX.com](http://www.dx.com/p/sct013-0-100a-non-invasive-ac-current-sensor-split-core-current-transformer-blue-359292)
-* Voltage transformer:  Ideal Power 77DB-06-09 9VAC transformer ([OpenEnergyMonitor](https://shop.openenergymonitor.com/ac-ac-power-supply-adapter-ac-voltage-sensor-uk-plug/ [element14](http://sg.element14.com/ideal-power/77db-06-09/power-supply-ac-ac-10w-9v-0-67a/dp/2368014))
+* Voltage transformer:  Ideal Power 77DB-06-09 9VAC transformer ([OpenEnergyMonitor](https://shop.openenergymonitor.com/ac-ac-power-supply-adapter-ac-voltage-sensor-uk-plug/) [element14](http://sg.element14.com/ideal-power/77db-06-09/power-supply-ac-ac-10w-9v-0-67a/dp/2368014))
 
 ## Assembly
 
