@@ -35,7 +35,7 @@ An Arduino sketch that publishes MQTT feeds can be found at [ndoo/Energy-Monitor
 ## Assembly
 
 1. Solder SMD passives (I suggest using a PCBA service as I used 0402 parts)
- * If you solder the AC voltage divider wrongly, you may blow up the 0402 passives or destroy your Feather's LDO!)
+ * If you solder the AC voltage divider wrongly, you may blow up the 0402 passives or destroy your Feather's LDO!
 2. Solder 2.54mm screw terminal
 3. Solder 2.54mm pin headers
 4. Connect 12VAC input(s)
