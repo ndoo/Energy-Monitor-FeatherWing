@@ -40,7 +40,7 @@ Note: While I have tried to use ≥10mil design rules, I may have left some 6mil
  * If you solder the AC voltage divider wrongly, you may blow up the 0402 passives or destroy your Feather's LDO!
 2. Solder 2.54mm screw terminal
 3. Solder 2.54mm pin headers
-4. Connect 12VAC input(s)
+4. Connect AC monitoring input(s)
 5. Connect current transformer(s)
 6. Configure and upload sketch to Feather M0
 7. Stack FeatherWing and power up
